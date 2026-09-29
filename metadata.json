@@ -1,0 +1,6 @@
+{
+  "name": "HANDSTRUNG - Luxury Handmade Pearl & Décor Boutique",
+  "description": "Discover HANDSTRUNG — beautiful handmade pearl bags, accessories, décor and gifts crafted with care for women who love timeless details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
